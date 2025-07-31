@@ -1,0 +1,115 @@
+package java.com.lib;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+class Lib{
+	String bookName;
+	String bookId;
+	String returnDate;
+	public String getBookName() {
+		return bookName;
+	}
+	public void setBookName(String bookName) {
+		this.bookName = bookName;
+	}
+	public String getBookId() {
+		return bookId;
+	}
+	public void setBookId(String bookId) {
+		this.bookId = bookId;
+	}
+	public String getReturnDate() {
+		return returnDate;
+	}
+	public void setReturnDate(String returnDate) {
+		this.returnDate = returnDate;
+	}
+	public Lib(String bookName, String bookId, String returnDate) {
+		super();
+		this.bookName = bookName;
+		this.bookId = bookId;
+		this.returnDate = returnDate;
+	}
+	public Lib() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	@Override
+	public String toString() {
+		return "Lib [bookName=" + bookName + ", bookId=" + bookId + ", returnDate=" + returnDate + "]";
+	}
+	
+	
+	
+	
+}
+
+public class Library {
+	public static void main(String[] args) {
+		List<Lib> libOp= new ArrayList<Lib>();
+		
+		Scanner sc= new Scanner(System.in);
+		
+		Lib l1= new Lib("b1","a1","04-05-2020");
+		Lib l2= new Lib("b2","a2","05-05-2020");
+		Lib l3= new Lib("b3","a3","06-05-2020");
+		
+		libOp.add(l1);
+		libOp.add(l2);
+		libOp.add(l3);
+		
+		
+		
+		
+	}
+	
+	
+	public static String add(List<Lib> libOp) {
+		
+		System.out.println("Add the book");
+		Scanner sc= new Scanner(System.in);
+		System.out.println("Enter the book name");
+		String bookName=sc.next();
+		System.out.println("Enter the book ID");
+		String ID= sc.next();
+		System.out.println("Enter the return date");
+		String returnDate=sc.next();
+		
+		Lib addLib = new Lib();
+		addLib.setBookName(bookName);
+		addLib.setBookId(bookName);
+		addLib.setReturnDate(returnDate);
+		
+		libOp.add(addLib);
+		System.out.println("Sucessfully added");
+		
+		return "completed";
+	}
+	
+	public static String show(List<Lib> LibOp) {
+		
+		for(int i=0;i<LibOp.size();i++) {
+			System.out.println(LibOp.get(i));
+		}
+		return "Showed Sucessfully" ;
+	}
+	
+	public static String update(List<Lib> LibOp) {
+		System.out.println("Upsate the book");
+		Scanner sc= new Scanner(System.in);
+		System.out.println("Enter the book name");
+		String bookName=sc.next();
+		System.out.println("Enter the book ID");
+		String ID= sc.next();
+		System.out.println("Enter the return date");
+		String returnDate=sc.next();
+		
+		Lib update=new update()
+		
+		return null;
+		
+	}
+
+}

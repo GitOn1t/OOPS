@@ -1,0 +1,50 @@
+package com.java.std;
+
+public class Students {
+	String name;
+	int rollNo;
+	int marks;
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public int getRollNo() {
+		return rollNo;
+	}
+	public void setRollNo(int rollNo) {
+		this.rollNo = rollNo;
+	}
+	public int getMarks() {
+		return marks;
+	}
+	public void setMarks(int marks) {
+		this.marks = marks;
+	}
+	public Students() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	public Students(String name, int rollNo, int marks) {
+		super();
+		this.name = name;
+		this.rollNo = rollNo;
+		this.marks = marks;
+	}
+	@Override
+	public String toString() {
+		return "Students [name=" + name + ", rollNo=" + rollNo + ", marks=" + marks + "]";
+	}
+	
+	public class StudentsMain{
+		public static void main(String[] args) {
+			Students s1= new Students("zain1",101,78);
+			Students s2= new Students("zain2",101,78);
+			Students s3= new Students("zain3",101,78);
+			
+		}
+	}
+	
+
+}

@@ -1,0 +1,64 @@
+package com.java.emp;
+
+import java.util.ArrayList;
+import java.util.List;
+
+class Emp {
+	String name;
+	String Id;
+	int salary;
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getId() {
+		return Id;
+	}
+
+	public void setId(String id) {
+		Id = id;
+	}
+
+	public int getSalary() {
+		return salary;
+	}
+
+	public void setSalary(int salary) {
+		this.salary = salary;
+	}
+
+	public Emp(String name, String id, int salary) {
+		super();
+		this.name = name;
+		Id = id;
+		this.salary = salary;
+	}
+
+	public Emp() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public String toString() {
+		return "Employee [name=" + name + ", Id=" + Id + ", salary=" + salary + "]";
+	}
+
+}
+
+
+public class Employee{
+	public static void main(String[] args) {
+		List<Employee> employeeList = new ArrayList<Employee>();
+		Employee e1 = new Employee ();
+		Employee e1 = new Employee ();
+		Employee e1 = new Employee ();
+		
+	}
+	
+}

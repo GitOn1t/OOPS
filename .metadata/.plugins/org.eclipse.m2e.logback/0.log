@@ -1,0 +1,902 @@
+2025-07-28 14:53:07,713 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-07-28 14:55:07,952 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013 [639])
+2025-07-28 14:55:07,954 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013
+2025-07-28 14:55:07,955 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\aopalliance-1.0.jar
+2025-07-28 14:55:07,955 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\guice-5.1.0.jar
+2025-07-28 14:55:07,955 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpclient-4.5.14.jar
+2025-07-28 14:55:07,955 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpcore-4.4.16.jar
+2025-07-28 14:55:07,956 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jansi-2.4.1.jar
+2025-07-28 14:55:07,956 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jcl-over-slf4j-1.7.36.jar
+2025-07-28 14:55:07,956 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-artifact-3.9.9.jar
+2025-07-28 14:55:07,956 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-builder-support-3.9.9.jar
+2025-07-28 14:55:07,956 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-compat-3.9.9.jar
+2025-07-28 14:55:07,956 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-core-3.9.9.jar
+2025-07-28 14:55:07,957 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-embedder-3.9.9.jar
+2025-07-28 14:55:07,957 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-3.9.9.jar
+2025-07-28 14:55:07,957 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-builder-3.9.9.jar
+2025-07-28 14:55:07,957 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-plugin-api-3.9.9.jar
+2025-07-28 14:55:07,958 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-repository-metadata-3.9.9.jar
+2025-07-28 14:55:07,958 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-api-1.9.22.jar
+2025-07-28 14:55:07,958 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-07-28 14:55:07,958 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-impl-1.9.22.jar
+2025-07-28 14:55:07,959 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-named-locks-1.9.22.jar
+2025-07-28 14:55:07,959 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-provider-3.9.9.jar
+2025-07-28 14:55:07,959 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-spi-1.9.22.jar
+2025-07-28 14:55:07,959 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-file-1.9.22.jar
+2025-07-28 14:55:07,959 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-http-1.9.22.jar
+2025-07-28 14:55:07,959 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-07-28 14:55:07,960 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-util-1.9.22.jar
+2025-07-28 14:55:07,960 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-3.9.9.jar
+2025-07-28 14:55:07,960 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-builder-3.9.9.jar
+2025-07-28 14:55:07,960 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-shared-utils-3.4.2.jar
+2025-07-28 14:55:07,960 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-07-28 14:55:07,961 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-07-28 14:55:07,961 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-0.0.7.jar
+2025-07-28 14:55:07,961 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-1.2.0.jar
+2025-07-28 14:55:07,961 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-cipher-2.0.jar
+2025-07-28 14:55:07,961 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-classworlds-2.8.0.jar
+2025-07-28 14:55:07,961 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-component-annotations-2.1.0.jar
+2025-07-28 14:55:07,962 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-interpolation-1.27.jar
+2025-07-28 14:55:07,962 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-sec-dispatcher-2.0.jar
+2025-07-28 14:55:07,962 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-utils-3.5.1.jar
+2025-07-28 14:55:07,963 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-xml-3.0.1.jar
+2025-07-28 14:55:07,963 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-file-3.5.3.jar
+2025-07-28 14:55:07,963 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-3.5.3.jar
+2025-07-28 14:55:07,963 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-shared-3.5.3.jar
+2025-07-28 14:55:07,964 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-provider-api-3.5.3.jar
+2025-07-28 14:55:07,965 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.4.8.jre [18])
+2025-07-28 14:55:07,965 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\com.google.guava_33.4.8.jre.jar
+2025-07-28 14:55:07,965 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.17 [1004])
+2025-07-28 14:55:07,966 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\slf4j.api_2.0.17.jar
+2025-07-28 14:55:07,966 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [1357])
+2025-07-28 14:55:07,966 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2025-07-28 14:55:07,966 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [1356])
+2025-07-28 14:55:07,966 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\javax.annotation_1.3.5.v20230504-0748.jar
+2025-07-28 14:55:07,966 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [76])
+2025-07-28 14:55:07,967 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2025-07-28 14:55:07,967 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2025-07-28 14:55:07,967 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-07-28 14:55:07,967 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.3 [19])
+2025-07-28 14:55:07,967 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\com.google.guava.failureaccess_1.0.3.jar
+2025-07-28 14:55:07,972 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\zainaby\AppData\Local\Temp\m2e-archetypeGenerator3147134922024149644":
+2025-07-28 14:55:07,978 [Worker-12: Launching mavenrun-ad6081f5-0daf-4929-b365-5a3d3caa0706] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.glassfish.jersey.archetypes -DarchetypeArtifactId=jersey-quickstart-webapp -DarchetypeVersion=4.0.0-M2 -DgroupId=Student -DartifactId=ProjectStudent -Dversion=0.0.1-SNAPSHOT -Dpackage=com.java.std -DoutputDirectory=C:\OOPSPROJECTS -Dstyle.color=always -U archetype:generate
+2025-07-28 14:55:30,967 [Worker-3: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\OOPSPROJECTS\ProjectStudent\pom.xml
+2025-07-28 14:55:38,719 [Worker-3: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Student:ProjectStudent:0.0.1-SNAPSHOT @ C:\OOPSPROJECTS\ProjectStudent\pom.xml.
+2025-07-28 14:55:45,585 [Worker-3: Creating jersey-quickstart-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProjectStudent/src/main/java
+2025-07-28 14:55:45,587 [Worker-3: Creating jersey-quickstart-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProjectStudent/src/main/resources
+2025-07-28 14:55:45,601 [Worker-3: Creating jersey-quickstart-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProjectStudent/src/test/java
+2025-07-28 14:55:45,602 [Worker-3: Creating jersey-quickstart-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProjectStudent/src/test/resources
+2025-07-28 14:55:52,188 [Worker-3: Creating jersey-quickstart-webapp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 14:55:52,194 [Worker-3: Creating jersey-quickstart-webapp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 14:55:58,576 [Worker-3: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 27 sec
+2025-07-28 14:55:58,977 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 14:55:58,979 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 14:56:09,505 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 14:56:09,511 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 14:59:34,560 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 14:59:34,563 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 15:13:13,691 [Worker-21: Launching StudentMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 15:13:13,695 [Worker-21: Launching StudentMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 15:14:28,616 [Worker-7: Launching StudentMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 15:14:28,623 [Worker-7: Launching StudentMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 15:18:35,738 [Worker-7: Launching StudentMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 15:18:35,741 [Worker-7: Launching StudentMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 15:20:16,498 [Worker-8: Launching StudentMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 15:20:16,504 [Worker-8: Launching StudentMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 15:22:09,125 [Worker-8: Launching StudentMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 15:22:09,129 [Worker-8: Launching StudentMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 15:41:07,867 [Worker-31: Launching StudentMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 15:41:07,871 [Worker-31: Launching StudentMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 16:06:58,461 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 16:06:58,464 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 16:11:17,154 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 16:11:17,157 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 16:15:40,196 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 16:15:40,198 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 16:16:56,796 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 16:16:56,799 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 16:32:05,882 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 16:32:05,885 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 16:32:51,607 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 16:32:51,611 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 16:33:30,376 [Worker-44: Launching StudentsMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 16:33:30,380 [Worker-44: Launching StudentsMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 18:43:51,529 [Worker-30: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-07-28 18:47:13,722 [Worker-29: Launching StudentsMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 18:47:13,727 [Worker-29: Launching StudentsMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 18:47:46,452 [Worker-32: Launching StudentsMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 18:47:46,457 [Worker-32: Launching StudentsMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 18:49:56,288 [Worker-32: Launching StudentsMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 18:49:56,292 [Worker-32: Launching StudentsMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 18:51:15,758 [Worker-30: Launching StudentsMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 18:51:15,766 [Worker-30: Launching StudentsMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 18:52:11,691 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 18:52:11,694 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 19:01:47,211 [Worker-30: Launching StudentsMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 19:01:47,219 [Worker-30: Launching StudentsMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-28 19:11:07,798 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-28 19:11:07,802 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-29 09:55:56,883 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013 [639])
+2025-07-29 09:55:56,885 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013
+2025-07-29 09:55:56,886 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\aopalliance-1.0.jar
+2025-07-29 09:55:56,886 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\guice-5.1.0.jar
+2025-07-29 09:55:56,886 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpclient-4.5.14.jar
+2025-07-29 09:55:56,887 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpcore-4.4.16.jar
+2025-07-29 09:55:56,887 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jansi-2.4.1.jar
+2025-07-29 09:55:56,887 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jcl-over-slf4j-1.7.36.jar
+2025-07-29 09:55:56,887 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-artifact-3.9.9.jar
+2025-07-29 09:55:56,888 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-builder-support-3.9.9.jar
+2025-07-29 09:55:56,888 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-compat-3.9.9.jar
+2025-07-29 09:55:56,888 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-core-3.9.9.jar
+2025-07-29 09:55:56,888 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-embedder-3.9.9.jar
+2025-07-29 09:55:56,888 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-3.9.9.jar
+2025-07-29 09:55:56,889 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-builder-3.9.9.jar
+2025-07-29 09:55:56,889 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-plugin-api-3.9.9.jar
+2025-07-29 09:55:56,889 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-repository-metadata-3.9.9.jar
+2025-07-29 09:55:56,889 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-api-1.9.22.jar
+2025-07-29 09:55:56,889 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-07-29 09:55:56,889 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-impl-1.9.22.jar
+2025-07-29 09:55:56,890 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-named-locks-1.9.22.jar
+2025-07-29 09:55:56,890 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-provider-3.9.9.jar
+2025-07-29 09:55:56,891 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-spi-1.9.22.jar
+2025-07-29 09:55:56,891 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-file-1.9.22.jar
+2025-07-29 09:55:56,892 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-http-1.9.22.jar
+2025-07-29 09:55:56,892 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-07-29 09:55:56,892 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-util-1.9.22.jar
+2025-07-29 09:55:56,892 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-3.9.9.jar
+2025-07-29 09:55:56,893 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-builder-3.9.9.jar
+2025-07-29 09:55:56,893 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-shared-utils-3.4.2.jar
+2025-07-29 09:55:56,893 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-07-29 09:55:56,893 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-07-29 09:55:56,894 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-0.0.7.jar
+2025-07-29 09:55:56,894 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-1.2.0.jar
+2025-07-29 09:55:56,894 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-cipher-2.0.jar
+2025-07-29 09:55:56,894 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-classworlds-2.8.0.jar
+2025-07-29 09:55:56,895 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-component-annotations-2.1.0.jar
+2025-07-29 09:55:56,895 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-interpolation-1.27.jar
+2025-07-29 09:55:56,895 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-sec-dispatcher-2.0.jar
+2025-07-29 09:55:56,895 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-utils-3.5.1.jar
+2025-07-29 09:55:56,895 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-xml-3.0.1.jar
+2025-07-29 09:55:56,896 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-file-3.5.3.jar
+2025-07-29 09:55:56,896 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-3.5.3.jar
+2025-07-29 09:55:56,896 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-shared-3.5.3.jar
+2025-07-29 09:55:56,896 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-provider-api-3.5.3.jar
+2025-07-29 09:55:56,897 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.4.8.jre [18])
+2025-07-29 09:55:56,898 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\com.google.guava_33.4.8.jre.jar
+2025-07-29 09:55:56,898 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.17 [1004])
+2025-07-29 09:55:56,898 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\slf4j.api_2.0.17.jar
+2025-07-29 09:55:56,898 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [1357])
+2025-07-29 09:55:56,899 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2025-07-29 09:55:56,899 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [1356])
+2025-07-29 09:55:56,899 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\javax.annotation_1.3.5.v20230504-0748.jar
+2025-07-29 09:55:56,899 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [76])
+2025-07-29 09:55:56,900 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2025-07-29 09:55:56,900 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2025-07-29 09:55:56,900 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-07-29 09:55:56,900 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.3 [19])
+2025-07-29 09:55:56,900 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\com.google.guava.failureaccess_1.0.3.jar
+2025-07-29 09:55:56,905 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\zainaby\AppData\Local\Temp\m2e-archetypeGenerator13803628399623152607":
+2025-07-29 09:55:56,906 [Worker-47: Launching mavenrun-8576aa73-401e-4e54-848d-e079f8d57ce1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.glassfish.jersey.archetypes -DarchetypeArtifactId=jersey-quickstart-webapp -DarchetypeVersion=4.0.0-M2 -DgroupId=Employee -DartifactId=Employees -Dversion=0.0.1-SNAPSHOT -Dpackage=com.java.emp -DoutputDirectory=C:\OOPSPROJECTS -Dstyle.color=always -U archetype:generate
+2025-07-29 09:56:23,912 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\OOPSPROJECTS\Employees\pom.xml
+2025-07-29 09:56:28,479 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Employee:Employees:0.0.1-SNAPSHOT @ C:\OOPSPROJECTS\Employees\pom.xml.
+2025-07-29 09:56:31,795 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Employees/src/main/java
+2025-07-29 09:56:31,808 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Employees/src/main/resources
+2025-07-29 09:56:31,813 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Employees/src/test/java
+2025-07-29 09:56:31,814 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Employees/src/test/resources
+2025-07-29 09:56:34,871 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 09:56:34,874 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 09:56:35,222 [Worker-48: Creating jersey-quickstart-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2025-07-29 09:56:36,177 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 09:56:36,179 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 09:57:13,769 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 09:57:13,773 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 10:01:50,453 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 10:01:50,455 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 10:02:38,570 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 10:02:38,572 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 10:07:23,847 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 10:07:23,851 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 10:10:04,689 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 10:10:04,694 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 10:21:14,987 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 10:21:14,994 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 10:29:05,031 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 10:29:05,036 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 10:35:53,670 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 10:35:53,674 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 10:40:48,532 [Worker-46: Launching Employee] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 10:40:48,536 [Worker-46: Launching Employee] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 10:45:32,812 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 10:45:32,817 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 10:49:01,399 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-07-29 10:52:56,970 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 10:52:56,978 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 10:55:02,420 [Worker-17: Launching Employee] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 10:55:02,424 [Worker-17: Launching Employee] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 10:59:52,113 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 10:59:52,117 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 11:06:26,139 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 11:06:26,144 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 11:08:39,756 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 11:08:39,762 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 11:10:34,794 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 11:10:34,798 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 11:15:44,878 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 11:15:44,881 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 11:22:49,440 [Worker-28: Launching Employee] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 11:22:49,444 [Worker-28: Launching Employee] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 11:24:53,146 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 11:24:53,148 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-29 11:33:43,962 [Worker-30: Launching Employee] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-29 11:33:43,969 [Worker-30: Launching Employee] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-30 13:14:00,488 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-07-30 14:07:47,003 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-30 14:07:47,024 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-30 14:13:21,148 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-30 14:13:21,151 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-30 14:31:56,303 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-30 14:31:56,306 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-30 14:40:23,645 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013 [639])
+2025-07-30 14:40:23,647 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013
+2025-07-30 14:40:23,647 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\aopalliance-1.0.jar
+2025-07-30 14:40:23,648 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\guice-5.1.0.jar
+2025-07-30 14:40:23,648 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpclient-4.5.14.jar
+2025-07-30 14:40:23,648 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpcore-4.4.16.jar
+2025-07-30 14:40:23,648 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jansi-2.4.1.jar
+2025-07-30 14:40:23,649 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jcl-over-slf4j-1.7.36.jar
+2025-07-30 14:40:23,649 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-artifact-3.9.9.jar
+2025-07-30 14:40:23,649 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-builder-support-3.9.9.jar
+2025-07-30 14:40:23,649 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-compat-3.9.9.jar
+2025-07-30 14:40:23,649 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-core-3.9.9.jar
+2025-07-30 14:40:23,649 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-embedder-3.9.9.jar
+2025-07-30 14:40:23,649 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-3.9.9.jar
+2025-07-30 14:40:23,649 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-builder-3.9.9.jar
+2025-07-30 14:40:23,650 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-plugin-api-3.9.9.jar
+2025-07-30 14:40:23,650 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-repository-metadata-3.9.9.jar
+2025-07-30 14:40:23,650 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-api-1.9.22.jar
+2025-07-30 14:40:23,650 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-07-30 14:40:23,650 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-impl-1.9.22.jar
+2025-07-30 14:40:23,650 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-named-locks-1.9.22.jar
+2025-07-30 14:40:23,651 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-provider-3.9.9.jar
+2025-07-30 14:40:23,651 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-spi-1.9.22.jar
+2025-07-30 14:40:23,651 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-file-1.9.22.jar
+2025-07-30 14:40:23,651 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-http-1.9.22.jar
+2025-07-30 14:40:23,651 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-07-30 14:40:23,652 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-util-1.9.22.jar
+2025-07-30 14:40:23,652 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-3.9.9.jar
+2025-07-30 14:40:23,652 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-builder-3.9.9.jar
+2025-07-30 14:40:23,652 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-shared-utils-3.4.2.jar
+2025-07-30 14:40:23,652 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-07-30 14:40:23,652 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-07-30 14:40:23,653 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-0.0.7.jar
+2025-07-30 14:40:23,653 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-1.2.0.jar
+2025-07-30 14:40:23,653 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-cipher-2.0.jar
+2025-07-30 14:40:23,653 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-classworlds-2.8.0.jar
+2025-07-30 14:40:23,653 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-component-annotations-2.1.0.jar
+2025-07-30 14:40:23,653 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-interpolation-1.27.jar
+2025-07-30 14:40:23,653 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-sec-dispatcher-2.0.jar
+2025-07-30 14:40:23,654 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-utils-3.5.1.jar
+2025-07-30 14:40:23,654 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-xml-3.0.1.jar
+2025-07-30 14:40:23,654 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-file-3.5.3.jar
+2025-07-30 14:40:23,655 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-3.5.3.jar
+2025-07-30 14:40:23,655 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-shared-3.5.3.jar
+2025-07-30 14:40:23,656 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-provider-api-3.5.3.jar
+2025-07-30 14:40:23,657 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.4.8.jre [18])
+2025-07-30 14:40:23,658 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\com.google.guava_33.4.8.jre.jar
+2025-07-30 14:40:23,658 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.17 [1004])
+2025-07-30 14:40:23,658 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\slf4j.api_2.0.17.jar
+2025-07-30 14:40:23,658 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [1357])
+2025-07-30 14:40:23,658 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2025-07-30 14:40:23,659 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [1356])
+2025-07-30 14:40:23,659 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\javax.annotation_1.3.5.v20230504-0748.jar
+2025-07-30 14:40:23,659 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [76])
+2025-07-30 14:40:23,659 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2025-07-30 14:40:23,659 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2025-07-30 14:40:23,659 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-07-30 14:40:23,659 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.3 [19])
+2025-07-30 14:40:23,660 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\zainaby\.p2\pool\plugins\com.google.guava.failureaccess_1.0.3.jar
+2025-07-30 14:40:23,663 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\zainaby\AppData\Local\Temp\m2e-archetypeGenerator11722304639780218122":
+2025-07-30 14:40:23,663 [Worker-37: Launching mavenrun-00788eca-1d47-423e-a167-70f98ca67a3d] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.1 -DgroupId=Library -DartifactId=Lib -Dversion=0.0.1-SNAPSHOT -Dpackage=java.com.lib -DoutputDirectory=C:\OOPSPROJECTS -Dstyle.color=always -U archetype:generate
+2025-07-30 14:40:50,996 [Worker-38: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\OOPSPROJECTS\Lib\pom.xml
+2025-07-30 14:40:56,082 [Worker-38: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Library:Lib:0.0.1-SNAPSHOT @ C:\OOPSPROJECTS\Lib\pom.xml.
+2025-07-30 14:40:56,483 [Worker-38: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.jar
+2025-07-30 14:40:56,704 [Worker-38: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.jar
+2025-07-30 14:40:58,318 [Worker-38: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lib/src/main/java
+2025-07-30 14:40:58,320 [Worker-38: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Lib/src/main/resources
+2025-07-30 14:40:58,335 [Worker-38: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lib/src/test/java
+2025-07-30 14:40:58,336 [Worker-38: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Lib/src/test/resources
+2025-07-30 14:40:58,687 [Worker-38: Creating maven-archetype-quickstart] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:40:58,690 [Worker-38: Creating maven-archetype-quickstart] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:40:59,093 [Worker-38: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2025-07-30 14:40:59,532 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2025-07-30 14:40:59,792 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2025-07-30 14:40:59,798 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2025-07-30 14:41:43,503 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:41:43,508 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:41:53,884 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:41:53,886 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:41:59,750 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:41:59,754 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:42:07,539 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:42:07,541 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:42:08,744 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:42:08,747 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:42:09,849 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:42:09,851 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:42:20,796 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:42:20,797 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:42:28,884 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:42:28,886 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:42:32,982 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:42:32,984 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:42:38,130 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:42:38,133 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:42:45,361 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:42:45,362 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:42:47,506 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:42:47,508 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:42:49,878 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:42:49,881 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:42:55,229 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:42:55,232 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:42:58,425 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:42:58,427 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:43:17,807 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:43:17,809 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:43:27,861 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:43:27,862 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:43:38,435 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:43:38,437 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:43:47,778 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:43:47,780 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:43:52,185 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:43:52,187 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:43:57,675 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:43:57,679 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:44:00,773 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:44:00,776 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:44:11,453 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:44:11,455 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:44:20,846 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:44:20,848 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:44:26,368 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:44:26,371 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:44:29,489 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:44:29,490 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:44:35,120 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:44:35,123 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:44:37,190 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:44:37,192 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:44:48,669 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:44:48,671 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:44:52,329 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:44:52,330 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:44:54,417 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:44:54,419 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:44:56,517 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:44:56,519 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:45:05,871 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:45:05,873 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:45:10,035 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:45:10,037 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:45:19,131 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:45:19,133 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:45:25,731 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:45:25,732 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:45:34,577 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:45:34,579 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:45:37,164 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:45:37,166 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:45:50,234 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:45:50,236 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:45:57,460 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:45:57,462 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:45:58,499 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:45:58,501 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:46:03,180 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:46:03,181 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:46:11,370 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:46:11,372 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:46:15,245 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:46:15,248 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:46:22,170 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:46:22,171 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:46:40,296 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:46:40,298 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:46:42,425 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:46:42,427 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:46:46,635 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:46:46,639 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:46:48,736 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:46:48,738 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:46:51,885 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:46:51,886 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:46:56,332 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:46:56,333 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:47:01,307 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:47:01,308 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:47:03,400 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:47:03,401 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:47:16,010 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:47:16,011 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:47:19,129 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:47:19,132 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:47:21,222 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:47:21,223 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:47:23,495 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:47:23,497 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:47:25,604 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:47:25,606 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:47:28,665 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:47:28,666 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:47:32,621 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:47:32,626 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:51:36,053 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:51:36,056 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:51:39,868 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:51:39,870 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:51:49,336 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:51:49,338 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:51:58,096 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:51:58,099 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:52:00,131 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:52:00,133 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:53:24,157 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:53:24,159 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:53:30,712 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:53:30,714 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:53:37,681 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:53:37,682 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:53:40,943 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:53:40,946 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:53:48,816 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:53:48,818 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:53:54,816 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:53:54,818 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:54:01,862 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:54:01,864 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:54:13,755 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:54:13,757 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:54:15,837 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:54:15,839 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:54:23,101 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:54:23,103 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:54:26,272 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:54:26,274 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:54:30,362 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:54:30,364 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:54:37,301 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:54:37,303 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:54:41,649 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:54:41,650 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:54:46,406 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:54:46,408 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:54:51,525 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:54:51,526 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:54:54,757 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:54:54,758 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:54:58,195 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:54:58,197 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:55:01,286 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:55:01,288 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:55:05,363 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:55:05,364 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:55:09,654 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:55:09,657 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:55:13,110 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:55:13,112 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:55:19,004 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:55:19,007 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:55:22,069 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:55:22,071 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:55:30,919 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:55:30,921 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:55:33,353 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:55:33,355 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:55:38,973 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:55:38,975 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:55:40,019 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:55:40,023 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:55:46,775 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:55:46,778 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:55:50,367 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:55:50,370 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:55:53,404 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:55:53,406 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:55:56,523 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:55:56,525 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:55:57,563 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:55:57,564 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:56:02,084 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:56:02,085 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:56:15,100 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:56:15,102 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:56:17,276 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:56:17,278 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:56:20,307 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:56:20,308 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:56:27,368 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:56:27,370 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:56:34,298 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:56:34,299 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:56:35,325 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:56:35,326 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:56:51,784 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:56:51,786 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:56:57,872 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:56:57,873 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:57:06,818 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:57:06,819 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:57:08,885 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:57:08,887 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:57:11,980 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:57:11,982 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:57:16,067 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:57:16,069 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:57:20,135 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:57:20,137 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:57:26,286 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:57:26,288 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:57:30,346 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:57:30,348 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:57:41,004 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:57:41,006 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:57:43,092 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:57:43,093 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:57:55,585 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:57:55,588 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:58:03,620 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:58:03,634 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:58:09,674 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:58:09,680 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:58:25,976 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:58:25,981 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:58:48,651 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:58:48,659 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:58:53,861 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:58:53,864 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:58:55,985 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:58:55,988 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:59:02,289 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:59:02,295 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:59:04,353 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:59:04,356 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:59:06,767 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:59:06,769 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:59:15,984 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:59:15,987 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:59:21,242 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:59:21,244 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:59:31,129 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:59:31,132 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:59:36,852 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:59:36,857 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:59:40,052 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:59:40,056 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:59:43,700 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:59:43,703 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:59:54,956 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:59:54,958 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 14:59:57,104 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 14:59:57,108 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:00:02,153 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:00:02,156 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:00:08,469 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:00:08,475 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:00:10,582 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:00:10,583 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:00:25,809 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:00:25,812 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:00:27,864 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:00:27,866 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:00:39,667 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:00:39,669 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:00:42,970 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:00:42,972 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:00:48,642 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:00:48,644 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:00:49,712 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:00:49,714 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:01:01,410 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:01:01,412 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:01:03,454 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:01:03,456 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:01:08,003 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:01:08,006 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:01:17,320 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:01:17,324 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:01:19,840 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:01:19,842 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:01:24,025 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:01:24,027 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:01:26,110 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:01:26,114 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:01:32,200 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:01:32,201 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:01:33,248 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:01:33,250 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:01:38,371 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:01:38,373 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:01:39,535 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:01:39,537 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:01:41,574 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:01:41,576 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:01:52,227 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:01:52,230 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:03:22,913 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:03:22,916 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:03:24,002 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:03:24,004 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:04:08,905 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:04:08,907 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:04:11,987 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:04:11,989 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:04:14,042 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:04:14,044 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:04:18,169 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:04:18,170 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:04:20,211 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:04:20,212 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:04:31,698 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:04:31,700 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:04:38,122 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:04:38,123 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:04:46,047 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:04:46,049 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:04:51,992 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:04:51,994 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:05:01,810 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:05:01,813 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:05:06,096 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:05:06,098 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:05:44,305 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:05:44,308 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:05:50,434 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:05:50,435 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:05:58,123 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:05:58,125 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:06:03,525 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:06:03,527 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:06:06,887 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:06:06,889 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:06:08,941 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:06:08,942 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:06:18,525 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:06:18,527 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:06:20,625 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:06:20,628 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:06:28,728 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:06:28,729 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:06:30,763 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:06:30,765 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:06:35,808 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:06:35,810 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:06:43,141 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:06:43,143 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:06:44,194 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:06:44,196 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:07:00,622 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:07:00,625 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:07:06,572 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:07:06,575 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:07:10,919 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:07:10,921 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:07:30,680 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:07:30,682 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:07:32,858 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:07:32,861 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:07:46,712 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:07:46,713 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:07:49,789 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:07:49,792 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:07:50,946 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:07:50,951 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:07:55,017 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:07:55,018 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:08:03,638 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:08:03,640 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:08:08,074 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:08:08,075 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:08:12,876 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:08:12,878 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:08:13,917 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:08:13,919 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:08:20,500 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:08:20,502 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:08:24,258 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:08:24,259 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:08:26,294 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:08:26,295 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:08:31,409 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:08:31,411 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:08:33,542 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:08:33,543 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:08:37,653 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:08:37,654 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:08:48,935 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:08:48,937 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:08:52,267 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:08:52,270 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:08:54,761 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:08:54,763 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:08:56,818 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:08:56,820 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:09:01,047 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:09:01,048 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:09:03,166 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:09:03,168 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:09:04,215 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:09:04,216 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:09:06,280 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:09:06,281 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:09:13,979 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:09:13,981 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:09:16,044 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:09:16,047 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:09:18,183 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:09:18,184 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:09:30,587 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:09:30,588 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:12:58,434 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:12:58,436 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:14:14,288 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:14:14,290 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:14:26,160 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:14:26,163 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:14:29,304 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:14:29,305 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:14:41,398 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:14:41,399 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:14:48,640 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:14:48,642 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:15:10,745 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:15:10,746 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:16:25,468 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:16:25,470 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:42:39,843 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:42:39,844 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:42:45,044 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:42:45,045 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:42:49,235 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:42:49,237 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:42:51,275 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:42:51,276 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:42:56,394 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:42:56,395 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:43:00,476 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:43:00,477 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:43:05,085 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:43:05,086 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:43:13,435 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:43:13,436 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:43:17,167 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:43:17,168 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:43:23,343 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:43:23,344 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:43:25,852 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:43:25,853 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:43:43,320 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:43:43,322 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:43:44,357 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:43:44,358 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:43:52,230 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:43:52,231 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:43:59,514 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:43:59,517 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:44:07,299 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:44:07,300 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:44:09,809 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:44:09,810 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:44:12,305 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:44:12,306 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:44:15,610 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:44:15,611 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:44:17,647 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:44:17,648 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:44:22,702 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:44:22,704 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:44:25,903 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:44:25,905 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:44:27,014 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:44:27,015 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:44:29,048 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:44:29,049 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:44:38,456 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:44:38,458 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:44:41,958 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:44:41,960 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:46:28,604 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:46:28,605 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:46:35,801 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:46:35,802 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:46:44,038 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:46:44,040 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:46:47,079 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:46:47,080 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:46:50,133 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:46:50,135 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:47:03,956 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:47:03,957 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:47:16,365 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:47:16,366 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:47:22,102 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:47:22,103 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:47:31,260 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:47:31,261 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:47:34,966 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:47:34,966 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:47:38,057 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:47:38,058 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:47:42,246 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:47:42,247 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:47:44,612 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:47:44,614 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:48:02,628 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:48:02,629 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:48:07,206 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:48:07,207 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:48:14,831 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:48:14,832 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:48:15,873 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:48:15,874 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:48:17,910 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:48:17,913 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:48:37,649 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:48:37,650 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:48:59,916 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:48:59,917 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:49:05,871 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:49:05,872 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:49:19,814 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:49:19,816 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:49:24,475 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:49:24,476 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:49:32,359 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:49:32,360 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:49:39,854 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:49:39,856 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:50:00,542 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:50:00,544 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:50:04,614 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:50:04,615 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:50:06,707 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:50:06,708 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:50:11,018 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:50:11,019 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:50:18,734 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:50:18,737 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:50:26,941 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:50:26,942 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:51:11,272 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:51:11,274 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-30 15:51:13,320 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-30 15:51:13,321 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-31 09:47:57,002 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-07-31 12:57:39,941 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-31 12:57:39,949 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-31 13:00:43,858 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-07-31 13:26:47,106 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-31 13:26:47,112 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-31 13:27:36,723 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-07-31 13:27:42,120 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Library:Lib:0.0.1-SNAPSHOT @ C:\OOPSPROJECTS\Lib\pom.xml.
+2025-07-31 13:27:42,581 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lib/src/main/java
+2025-07-31 13:27:42,583 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Lib/src/main/resources
+2025-07-31 13:27:42,583 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lib/src/test/java
+2025-07-31 13:27:42,584 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Lib/src/test/resources
+2025-07-31 13:27:42,973 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 5.00 sec, update config takes 0.00 sec 
+2025-07-31 13:27:43,257 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\main\resources
+2025-07-31 13:27:43,263 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Lib\src\test\resources
+2025-07-31 13:33:47,470 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-31 13:33:47,475 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-07-31 13:33:58,934 [Worker-26: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Employees
+2025-07-31 13:33:59,063 [Worker-26: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ProjectStudent
+2025-07-31 13:34:00,688 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\main\resources
+2025-07-31 13:34:00,692 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\Employees\src\test\resources
+2025-07-31 13:34:00,693 [Worker-23: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Employees
+2025-07-31 13:34:00,700 [Worker-23: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Employees
+2025-07-31 13:34:04,556 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-31 13:34:04,560 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-07-31 13:34:04,686 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\main\resources
+2025-07-31 13:34:04,689 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\OOPSPROJECTS\ProjectStudent\src\test\resources
+2025-07-31 13:34:04,689 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ProjectStudent
+2025-07-31 13:34:04,690 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ProjectStudent

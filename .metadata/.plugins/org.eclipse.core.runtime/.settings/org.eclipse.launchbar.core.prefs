@@ -1,10 +1,16 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:StudentMain,org.eclipse.launchbar.core.descriptorType.default\:StudentsMain,org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:Employees,org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:ProjectStudent,org.eclipse.launchbar.core.descriptorType.default\:Employee,org.eclipse.launchbar.core.descriptorType.default\:Library
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:StudentMain,org.eclipse.launchbar.core.descriptorType.default\:StudentsMain,org.eclipse.launchbar.core.descriptorType.default\:Employee,org.eclipse.launchbar.core.descriptorType.default\:Library,org.eclipse.launchbar.core.descriptorType.default\:BankApp,org.eclipse.launchbar.core.descriptorType.default\:Example2,org.eclipse.launchbar.core.descriptorType.default\:example1,org.eclipse.launchbar.core.descriptorType.default\:example3,org.eclipse.launchbar.core.descriptorType.default\:example4,org.eclipse.launchbar.core.descriptorType.default\:Example5,org.eclipse.launchbar.core.descriptorType.default\:Example6,org.eclipse.launchbar.core.descriptorType.default\:Example7,org.eclipse.launchbar.core.descriptorType.default\:CountDigits,org.eclipse.launchbar.core.descriptorType.default\:Armstrong,org.eclipse.launchbar.core.descriptorType.default\:ReverseANumber,org.eclipse.launchbar.core.descriptorType.default\:Palindrome,org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:Employees,org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:ProjectStudent,org.eclipse.launchbar.core.descriptorType.default\:Example8,org.eclipse.launchbar.core.descriptorType.default\:Example9,org.eclipse.launchbar.core.descriptorType.default\:Fibonacci,org.eclipse.launchbar.core.descriptorType.default\:nestedLoop
 eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Armstrong/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Armstrong/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:BankApp/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:BankApp/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.launchbar.core.descriptorType.default\:Employee/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:Employee/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Example8/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Example8/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.launchbar.core.descriptorType.default\:Library/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:Library/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.launchbar.core.descriptorType.default\:StudentMain/activeLaunchMode=run

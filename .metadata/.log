@@ -5841,3 +5841,11 @@ org.eclipse.core.runtime.CoreException: No property tester contributes a propert
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 !SUBENTRY 1 org.eclipse.core.expressions 4 201 2025-09-15 13:21:59.001
 !MESSAGE No property tester contributes a property org.eclipse.core.resources.projectNature to type class org.eclipse.jdt.internal.core.PackageFragment
+
+!ENTRY org.eclipse.ui.ide 4 4 2025-09-15 13:25:22.891
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2025-09-15 13:25:22.892
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2025-09-15 13:25:22.892
+!MESSAGE The project description file (.project) for 'Loops' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
